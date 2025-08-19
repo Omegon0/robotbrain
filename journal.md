@@ -67,3 +67,7 @@ Created renders and added some components (many steps failed to load. still work
 
 submitting today! 
 edit: forgot to actually commit to and push the repo. i just said i dumped everything
+
+created all production files
+
+*time spent: 3h*
